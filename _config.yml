@@ -1,1 +1,26 @@
+title: SISTFers
+
+description: >
+  35613.github.io jekyll site
+
+baseurl: ""
+
+url: "http://35613.github.io"
+
+github_username: 35613
+
+gems:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
 theme: jekyll-theme-slate
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+timezone: KR
